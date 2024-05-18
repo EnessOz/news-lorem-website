@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.nav-link {
+  margin-right: 30px;
+}
+
+.nav-link:hover {
+  color: rgb(170, 141, 91);
+  background-color: transparent;
+}
+
+.bg-custom-dark-blue {
+  background-color: #0E1E32;
+}
+
+.custom-dropdown-menu {
+  background-color: #e2e6eb;
+  color: #0d56a0;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+.custom-dropdown-menu .dropdown-item:hover {
+  background-color: #0d56a0;
+  color: wheat;
+}
+.Dropdown-item {
+  padding: 8px 20px;
+  font-size: 14px;
+}
+
+.Dropdown-item:hover {
+  background-color: #0d56a0;
+  color: wheat;
+
+}
