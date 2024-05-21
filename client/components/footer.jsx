@@ -22,12 +22,12 @@ export const Footer = () => {
         </nav>
         <div className="d-grid gap-4">
           <nav className="d-flex justify-content-around">
-            <a href="/" className="nav-link">Hakkımızda</a>
-            <a href="/" className="nav-link">İletişim</a>
-            <a href="/" className="nav-link">Kurslar</a>
-            <a href="/" className="nav-link">Kuponlar</a>
+            <a href="/" className="nav-link mx-3">Hakkımızda</a>
+            <a href="/" className="nav-link mx-3">İletişim</a>
+            <a href="/" className="nav-link mx-3">Kurslar</a>
+            <a href="/" className="nav-link mx-3">Kuponlar</a>
           </nav>
-          <div className="d-flex justify-content-around ">
+          <div className="d-flex justify-content-around">
             <a href="/" className="nav-link"><FontAwesomeIcon icon={faWifi} size='2x' /></a>
             <a href="/" className="nav-link"><FontAwesomeIcon icon={faTwitter} size='2x' /></a>
             <a href="/" className="nav-link"><FontAwesomeIcon icon={faGithubAlt} size='2x' /></a>
