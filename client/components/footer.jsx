@@ -15,23 +15,23 @@ export const Footer = () => {
 
         </div>
         <nav className="d-grid gap-2">
-          <a href="/" className="nav-link">Gizlilik Politikası</a>
-          <a href="/" className="nav-link">Kişisel Bilgilerimi Satma</a>
-          <a href="/" className="nav-link">Hizmet Süresi</a>
-          <a href="/" className="nav-link">Loremnews.com Site Haritası</a>
+          <a href="#" className="nav-link">Gizlilik Politikası</a>
+          <a href="#" className="nav-link">Kişisel Bilgilerimi Satma</a>
+          <a href="#" className="nav-link">Hizmet Süresi</a>
+          <a href="#" className="nav-link">Loremnews.com Site Haritası</a>
         </nav>
         <div className="d-grid gap-4">
           <nav className="d-flex justify-content-around">
-            <a href="/" className="nav-link mx-3">Hakkımızda</a>
-            <a href="/" className="nav-link mx-3">İletişim</a>
-            <a href="/" className="nav-link mx-3">Kurslar</a>
-            <a href="/" className="nav-link mx-3">Kuponlar</a>
+            <a href="#" className="nav-link mx-3">Hakkımızda</a>
+            <a href="#" className="nav-link mx-3">İletişim</a>
+            <a href="#" className="nav-link mx-3">Kurslar</a>
+            <a href="#" className="nav-link mx-3">Kuponlar</a>
           </nav>
           <div className="d-flex justify-content-around">
-            <a href="/" className="nav-link"><FontAwesomeIcon icon={faWifi} size='2x' /></a>
-            <a href="/" className="nav-link"><FontAwesomeIcon icon={faTwitter} size='2x' /></a>
-            <a href="/" className="nav-link"><FontAwesomeIcon icon={faGithubAlt} size='2x' /></a>
-            <a href="/" className="nav-link"><FontAwesomeIcon icon={faFacebook} size='2x' /></a>
+            <a href="#" className="nav-link"><FontAwesomeIcon icon={faWifi} size='2x' /></a>
+            <a href="#" className="nav-link"><FontAwesomeIcon icon={faTwitter} size='2x' /></a>
+            <a href="#" className="nav-link"><FontAwesomeIcon icon={faGithubAlt} size='2x' /></a>
+            <a href="#" className="nav-link"><FontAwesomeIcon icon={faFacebook} size='2x' /></a>
           </div>
         </div>
       </div>
