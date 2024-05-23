@@ -8,7 +8,7 @@ import { SideNews } from '../components/sideNews';
 
 export const Homepage = () => {
     return (
-        <div className='container-homepage'>
+        <div className='custom-class-home'>
             <HeroSection />
             <BreakingNewsBanner />
             <div className='d-flex flex-row justify-content-between'>
