@@ -7,10 +7,15 @@ import { RoutePage } from '../../client/pages/routePage';
 
 
 
+
+
 export const App = () => (
   <ApiProvider>
+
     <Header />
     <RoutePage />
     <Footer />
+
   </ApiProvider>
+
 );

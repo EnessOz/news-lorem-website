@@ -6,16 +6,16 @@ import Dropdown from 'react-bootstrap/Dropdown';
 
 export const Header = () => {
     return (
-        <header className="bg-light p-3" >
+        <header className="bg-light p-3 sticky-top" >
             <div className="container d-flex justify-content-around align-items-center" style={{ height: "70px" }}>
                 <img src="/images/logo.png" alt="logo" className="img-fluid" style={{ width: '130px', height: '130px' }} />
                 <nav className="d-flex justify-content-around">
                     <ul className="nav nav-pills nav-fill ">
                         <li className="nav-item ">
-                            <a className="nav-link text-secondary " href="/">Korona Haberleri</a>
+                            <a className="nav-link text-secondary " href="/">Anasayfa</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary" href="/">Siyaset</a>
+                            <a className="nav-link text-secondary" href="/siyaset">Siyaset</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link text-secondary" href="#">İş</a>
